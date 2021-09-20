@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vedu7
-- 👀 I’m interested in Ganing Coding And Space Tech
+- 👀 I’m interested in Gaming Coding And Space Tech
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Discord
